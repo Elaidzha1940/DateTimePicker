@@ -13,7 +13,7 @@ import SwiftUI
 struct DateTimePickerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AddDateViewModel()
         }
     }
 }
