@@ -42,7 +42,7 @@ struct TimeView: View {
         }
         .padding()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(Color.black.opacity(0.3))
+        //.background(Color.black.opacity(0.3))
     }
 }
 
